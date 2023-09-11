@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Angular projects**
 
-- 🌱 I’m currently learning **Node.js, Angular, Vue & TypeScript otimization**
+- 🌱 I’m currently learning **Node.js, Angular, Vue & TypeScript optimization**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
